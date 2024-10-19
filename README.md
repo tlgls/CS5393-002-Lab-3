@@ -1,4 +1,7 @@
 # CS 5393-002 Lab 3
+**Description:**
+Lab over binary search tree (BST) and hashtables.
+
 ## Binary Search Tree (BST)
 ### Objectives:
 The objective of the program is to develop a Binary Search Tree (BST) that
